@@ -1,0 +1,4 @@
+user=root
+password=database_password
+dburl=jdbc:mysql://localhost:3306/database_name?allowPublicKeyRetrieval=true
+useSSL=false
